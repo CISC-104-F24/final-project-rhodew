@@ -8,6 +8,10 @@ TagManager:
   - Orb
   - Jump
   - Gate
+  - Portal
+  - Ground
+  - Fragile
+  - Mud
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - UIBack
   - 
   - 
   - 
